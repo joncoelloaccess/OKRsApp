@@ -1,0 +1,89 @@
+.icon, i {
+    font-family: Access!important;
+    speak: none;
+    font-size: 16px;
+    line-height: 1;
+    color: #fff;
+    font-style: normal;
+    font-weight: 400;
+    font-variant: normal;
+    text-transform: none;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.widget-collab-tasks .progress--circle {
+    float: right;
+    margin: 7px 2px 0 0;
+}
+.widget-collab-tasks ul li.colorCritical {
+    border-left-color: #e5173f;
+}
+.widget-collab-tasks ul li.colorHigh {
+    border-left-color: #f9a411;
+}
+.widget-collab-tasks ul li.colorLow {
+    border-left-color: #036d83;
+}
+.widget-collab-tasks ul li {
+    display: block;
+    background: #fff;
+    margin: 0 10px 10px;
+    padding: 10px;
+    border-width: 1px 1px 1px 4px;
+    border-style: solid;
+    border-color: #dbe0e5 #dbe0e5 #dbe0e5 #4c4f53;
+    border-radius: 3px;
+}
+.widget-collab-tasks .task-name {
+    margin-right: 50px;
+    font-family: Lato,Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 5px;
+    color: #7e7e81;
+}
+.widget-collab-tasks .task-detail.task-due {
+    margin-right: 50px;
+    color: #7e7e81;
+    font-size: 12px;
+}
+
+.widget-collab-tasks .task-detail {
+    line-height: 20px;
+    height: 20px;
+    margin-top: 5px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.widget-collab-tasks .task-name i {
+    font-size: 18px;
+    position: relative;
+    /*top: 4px;*/
+    left: -2px;
+}
+.widget-collab-tasks .task-detail .task-due-date {
+    margin-right: 10px;
+    color: #7e7e81;
+    font-size: 12px;
+}
+.widget-collab-tasks .task-detail i {
+    color: #7e7e81;
+    font-size: 17px;
+    margin-right: 5px;
+    position: relative;
+    top: 0;
+}
+.widget i {
+    color: #7e7e81;
+    font-size: 16px;
+    line-height: 16px;
+}
+.widget .widget-grid {
+    background: #e9ecee;
+    padding: 0;
+}
+.widget .widget-grid-search {
+    border-bottom: 0;
+    padding: 5px;
+}

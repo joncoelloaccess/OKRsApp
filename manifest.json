@@ -1,0 +1,9 @@
+{
+  "id": "Access.Cloud.Tools.OKRs",
+  "name": "Objectives",
+  "description": "Track your employee objectives",
+  "applicationName": "SelectHR",
+  "category": "Objectives",
+  "defaultHeight": 250,
+  "minHeight": 110
+}
